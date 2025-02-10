@@ -1,1 +1,2 @@
-# Sign-Language-Detection-App
+## Snapshots of the Indian Sign Language Detection App
+
